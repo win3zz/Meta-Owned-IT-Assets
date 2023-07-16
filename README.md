@@ -207,7 +207,7 @@ It is important to note that **I am not promoting or encouraging anyone to acces
 
     - https://graph.facebook.com/ - It is a key subdomain used for GraphQL API requests. It serves as the entry point for making GraphQL queries. A beta version of Facebook's Graph API is available at https://graph.beta.facebook.com/. Similarly, for Instagram, the subdomains https://graph.instagram.com/ and https://graphql.instagram.com/ are utilized for interacting with Instagram's GraphQL API.
     - https://www.internalfb.com/ - It is a domain Facebook uses internally.
-    - https://www.facebook.com/records/login/ - This portal is used to respond to matters involving imminent harm to a child or risk of death or serious physical injury to any person. Law enforcement officials can submit requests for information disclosure without delay. It is likely an in-house developed portal. Portal URL:
+    - https://www.facebook.com/records/login/ - This portal is used to respond to matters involving imminent harm to a child or risk of death or serious physical injury to any person. Law enforcement officials can submit requests for information disclosure without delay. It is likely an in-house developed portal.
     - https://www.metacareers.com/ and http://www.facebookrecruiting.com/ - Meta Careers is a portal for recruitment, internships, and joining Meta. 
     - https://developers.facebook.com/tools/ - It provides various interesting debugging and validation tools helpful for developers.
     - https://upload.facebook.com/ - It is responsible for handling file uploads to Facebook. When users upload photos or videos, the files are typically processed and stored through this subdomain.
