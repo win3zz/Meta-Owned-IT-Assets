@@ -283,6 +283,9 @@ It is important to note that **I am not promoting or encouraging anyone to acces
 - **Snapshot of Facebook from February 12, 2004**: You can explore the early days of Facebook by viewing a snapshot of the website as it appeared on February 12, 2004. Visit https://web.archive.org/web/20040212031928/http://www.thefacebook.com/ to access the archived snapshot.
 - **Email ID of Mark Zuckerberg**: zuck@thefacebook.com (Ref: https://twitter.com/testerfo1/status/1538880004536139776) 
 - **Facebook Profile of Mark Zuckerberg**: https://www.facebook.com/profile.php?id=4 OR https://www.facebook.com/zuck
+- **Facebook Source Code Leaked**:
+    - https://gist.github.com/nikcub/3833406
+    - https://gist.github.com/philfreo/7257723
 
 _Please note that at the time of writing, all the URLs mentioned in the list are accessible. However, keep in mind that the availability of these URLs may change over time. I will do my best to update if any URLs become inaccessible._
 
