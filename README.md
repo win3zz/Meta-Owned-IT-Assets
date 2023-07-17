@@ -283,6 +283,7 @@ It is important to note that **I am not promoting or encouraging anyone to acces
     - https://github.com/TricksterShubi/inventory/tree/main/Facebook
 - **Facebook Bug Bounty Writeups**: A collection of vulnerability reports on Facebook.
     - https://github.com/jaiswalakshansh/Facebook-BugBounty-Writeups
+    - https://infosecwriteups.com/tagged/facebook-bug-bounty
 - **Facebook Source Code Leaked**:
     - https://gist.github.com/nikcub/3833406
     - https://gist.github.com/philfreo/7257723
