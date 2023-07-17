@@ -278,7 +278,8 @@ It is important to note that **I am not promoting or encouraging anyone to acces
 
 ## Other Information
 
-- **Snapshot of Facebook from February 12, 2004**: You can explore the early days of Facebook by viewing a snapshot of the website as it appeared on February 12, 2004. Visit https://web.archive.org/web/20040212031928/http://www.thefacebook.com/ to access the archived snapshot.
+- **Snapshot of Facebook from February 12, 2004**: You can explore the early days of Facebook by viewing a snapshot of the website. 
+    - https://web.archive.org/web/20040212031928/http://www.thefacebook.com/
 - **Facebook Inventory**: A collection of Facebook assets available on GitHub.
     - https://github.com/TricksterShubi/inventory/tree/main/Facebook
 - **Facebook Bug Bounty Writeups**: A collection of vulnerability reports on Facebook.
