@@ -243,7 +243,6 @@ It is important to note that **I am not promoting or encouraging anyone to acces
     - https://connect-staging.internet.org/
     - https://edge-chat.internalfb.com/
     - https://s-static.internalfb.com/
-    - https://investor.fb.com/home/default.aspx - Endpoint for accessing Facebook's investor relations website.
     - https://apacpolicy.fb.com/login-page/
     - https://whatsapppolicy.fb.com/login-page/
     - https://emeapolicycovidhub.fb.com/vpn/
