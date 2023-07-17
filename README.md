@@ -15,8 +15,6 @@ The term "recon" originates from its military usage to describe an information-g
 - [crt.sh](https://crt.sh/): A certificate search and monitoring tool.
 - [SubdomainFinder](https://subdomainfinder.c99.nl/): A subdomain enumeration and discovery tool.
 - [YouGetSignal](https://www.yougetsignal.com/tools/web-sites-on-web-server/): A web server hosting multiple websites detection tool.
-- [Facebook Inventory](https://github.com/TricksterShubi/inventory/tree/main/Facebook): A collection of Facebook assets available on GitHub.
-- [Facebook Bug Bounty Writeups](https://github.com/jaiswalakshansh/Facebook-BugBounty-Writeups): A collection of vulnerability reports on Facebook.
 - [Google Dork](https://en.wikipedia.org/wiki/Google_hacking): Customized search queries using Google's search operators.
 - Other open-source programs/tools/frameworks for IT asset discovery.
 
@@ -281,11 +279,15 @@ It is important to note that **I am not promoting or encouraging anyone to acces
 ## Other Information
 
 - **Snapshot of Facebook from February 12, 2004**: You can explore the early days of Facebook by viewing a snapshot of the website as it appeared on February 12, 2004. Visit https://web.archive.org/web/20040212031928/http://www.thefacebook.com/ to access the archived snapshot.
-- **Email ID of Mark Zuckerberg**: zuck@thefacebook.com (Ref: https://twitter.com/testerfo1/status/1538880004536139776) 
-- **Facebook Profile of Mark Zuckerberg**: https://www.facebook.com/profile.php?id=4 OR https://www.facebook.com/zuck
+- **Facebook Inventory**: A collection of Facebook assets available on GitHub.
+    - https://github.com/TricksterShubi/inventory/tree/main/Facebook
+- **Facebook Bug Bounty Writeups**: A collection of vulnerability reports on Facebook.
+    - https://github.com/jaiswalakshansh/Facebook-BugBounty-Writeups
 - **Facebook Source Code Leaked**:
     - https://gist.github.com/nikcub/3833406
     - https://gist.github.com/philfreo/7257723
+- **Email ID of Mark Zuckerberg**: zuck@thefacebook.com (Ref: https://twitter.com/testerfo1/status/1538880004536139776) 
+- **Facebook Profile of Mark Zuckerberg**: https://www.facebook.com/profile.php?id=4 OR https://www.facebook.com/zuck
 
 _Please note that at the time of writing, all the URLs mentioned in the list are accessible. However, keep in mind that the availability of these URLs may change over time. I will do my best to update if any URLs become inaccessible._
 
