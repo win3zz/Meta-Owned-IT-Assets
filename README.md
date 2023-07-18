@@ -287,6 +287,13 @@ It is important to note that **I am not promoting or encouraging anyone to acces
 - **Facebook Source Code Leaked**:
     - https://gist.github.com/nikcub/3833406
     - https://gist.github.com/philfreo/7257723
+- **Algolia API Keys**:
+    - https://github.com/facebook/create-react-app/blob/0a827f69ab0d2ee3871ba9b71350031d8a81b7ae/docusaurus/website/docusaurus.config.js#L48
+        - https://aujyiq70hn-dsn.algolia.net/1/keys/25243dbf9049cf036e87f64b361bd2b9?X-Algolia-Application-Id=AUJYIQ70HN&X-Algolia-API-Key=25243dbf9049cf036e87f64b361bd2b9
+    - https://github.com/facebook/flipper/blob/b55d730dd7589e533d742b4fb883c28ee9064b4b/desktop/plugin-lib/src/getNpmHostedPlugins.tsx#L13
+        - https://ofcncog2cu-dsn.algolia.net/1/keys/f54e21fa3a2a0160595bb058179bfb1e?X-Algolia-Application-Id=OFCNCOG2CU&X-Algolia-API-Key=f54e21fa3a2a0160595bb058179bfb1e
+    - https://github.com/facebook/Ax/blob/36285eb26b80d6ae6d0b5e23f0619c6c9796209d/website/siteConfig.js#L97
+        - https://bh4d9od16a-dsn.algolia.net/1/keys/467d4f1f6cace3ecb36ab551cb44905b?x-algolia-application-id=BH4D9OD16A&x-algolia-api-key=467d4f1f6cace3ecb36ab551cb44905b
 - **Email ID of Mark Zuckerberg**: zuck@thefacebook.com (Ref: https://twitter.com/testerfo1/status/1538880004536139776) 
 - **Facebook Profile of Mark Zuckerberg**: https://www.facebook.com/profile.php?id=4 OR https://www.facebook.com/zuck
 
