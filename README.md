@@ -273,7 +273,8 @@ It is important to note that **I am not promoting or encouraging anyone to acces
     - [https://developerevents.atmeta.com/gql?query={__schema{types{name}}}](https://developerevents.atmeta.com/gql?query={__schema{types{name}}}) - This GraphQL endpoint that allows processing introspection queries.
     - https://ec2-52-86-181-233.compute-1.amazonaws.com/ - An AWS host owned by Facebook. It hosts a Node.js application named Mango Harvest. 
     - https://ec2-52-86-181-233.compute-1.amazonaws.com/api/docs/ - Swagger UI instance
-    - https://ec2-52-86-181-233.compute-1.amazonaws.com/api/api/ - Stacktrace 
+    - https://ec2-52-86-181-233.compute-1.amazonaws.com/api/api/ - Stacktrace
+    - https://cloud.internal.metamail.com/FAQ
 
 ## Other Information
 
